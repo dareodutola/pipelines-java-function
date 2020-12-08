@@ -4,7 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 variables:
   # the name of the service connection that you created above
-  serviceConnectionToAzure: name-of-your-service-connection
+  serviceConnectionToAzure: myservconnect
   # the name of your web app here is the same one you used above
   # when you created the web app using the Azure CLI
   appName: java-tuc-funcapp
